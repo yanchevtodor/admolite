@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "image-1",
+        "alt": "image-1",
+        "src": "images/purviqt-muj-kacnal-na-lunata-kartina.jpg"
+    },
+    {
+        "id": 2,
+        "name": "image-2",
+        "alt": "image-2",
+        "src": "images/purviqt-muj-kacnal-na-lunata-kartina.jpg"
+    },
+    {
+        "id": 3,
+        "name": "image-3",
+        "alt": "image-3",
+        "src": "images/purviqt-muj-kacnal-na-lunata-kartina.jpg"
+    },
+    {
+        "id": 4,
+        "name": "image-4",
+        "alt": "image-4",
+        "src": "images/purviqt-muj-kacnal-na-lunata-kartina.jpg"
+    },
+    {
+        "id": 5,
+        "name": "image-5",
+        "alt": "image-5",
+        "src": "images/purviqt-muj-kacnal-na-lunata-kartina.jpg"
+    },
+    {
+        "id": 6,
+        "name": "image-6",
+        "alt": "image-6",
+        "src": "images/purviqt-muj-kacnal-na-lunata-kartina.jpg"
+    }
+
+]
